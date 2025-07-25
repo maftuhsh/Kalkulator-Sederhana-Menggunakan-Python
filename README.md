@@ -1,2 +1,3 @@
 # Kalkulator-Sederhana-Menggunakan-Python
-Kalkulator sederhana with phyton 
+Haiii, ini adalah hari ketigaku belajar phyton dan Disini projectku membuat kalkulator sederhana 
+yang terdiri dari penjumlahan, pengurangan, perkalian dan pembagian.
